@@ -1,1 +1,2 @@
 # Automatic-roofing-system
+A civil contractor is responsible for ensuring the safety and comfort of residents in a residential building. One particular area of concern is providing protection from rain in open areas such as balconies, terraces, or courtyards. Manually operating roofing systems can be cumbersome, especially for physically challenged and aged individuals. Therefore, an automatic solution is desired to enhance convenience and protection.
